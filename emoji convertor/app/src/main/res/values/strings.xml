@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">emoji convertor</string>
+    <string name="write_only_one_character">Enter Text</string>
+    <string name="read_txt_file">CONVERT</string>
+    <string name="name">Name</string>
+    <string name="select_emoji">Select emoji(default is </string>
+</resources>
